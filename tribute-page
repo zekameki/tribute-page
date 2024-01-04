@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Leonardo da Vinci</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+#main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#title {
+  text-align: center;
+  color: #333;
+}
+
+#img-div {
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+#img-caption {
+  color: #555;
+}
+
+#tribute-info {
+  background-color: #ffcccb;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+fieldset {
+  border: 3px solid #ffcccb;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+ul {
+ list-style: inside; 
+  padding: 15px;
+  margin: auto 0;
+}
+
+li {
+  margin-bottom: 30px;
+}
+
+#tribute-link {
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  text-decoration: none;
+  color: #333;
+  background-color: #ffcccb;
+  padding: 10px 20px;
+  border-radius: px;
+}
+
+#tribute-link:hover {
+  background-color: #ff9999;
+}
+
+
+#image {
+  max-width: 100%;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+
+
+</style>
+    </head>
+    <body>
+        <main id="main">
+            <title id="title">Histoty of Leonardo da Vinci</title>
+            <figure id="img-div">
+                <h1>Leonardo da Vinci</h1>
+                <img id="image"></img>
+          <div id="img-caption">the famous artis in 14th century</div>
+          <img id="image" src="https://www.leonardodavinci.net/images/leonardo-da-vinci.jpg" alt="A sketch of Leonardo di ser Piero da Vinci">
+                <p id="img-caption">This is a sketch of Leonardo di ser Piero da Vinci</p>
+                <a id=>
+          <div id="tribute-info">Here are some facts about Leonardo da Vinci</div>
+          <fieldset>
+                    <ul>
+                        <li>Leonardo da Vinci was born on April 15, 1452, in Anchiano, Italy</li>
+                        <li>Died: May 2, 1519, Château du Clos Lucé, Amboise, France</li>
+                    
+                        <li>Periods: Renaissance, Italian Renaissance, High Renaissance</li>
+                    
+                        <li>Influenced by: Andrea del Verrocchio, Lorenzo de' Medici, John Argyropoulos</li>
+                    
+                        <li>Siblings: Guglielmo Ser Piero, Violante di Ser Piero da Vinci, MORE
+        </li>
+        <l\7i>Place of burial: Chapel of Saint-Hubert, Amboise, France</li>
+                    </ul>
+                </fieldset>
+            </div>
+          <p>if you want to know more about here is Leonardo da Vinci<a id="tribute-link" href="https://en.wikipedia.org/wiki/Leonardo_da_Vinci" target="_blank"> wikipedia</p>
+          </a>
+                </figure>
+        </main>   
+    </body>
+</html>
+
